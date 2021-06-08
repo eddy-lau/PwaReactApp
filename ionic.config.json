@@ -1,0 +1,7 @@
+{
+  "name": "PwaReactApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
