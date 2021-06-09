@@ -20,10 +20,12 @@ This example demonstrate how to use [Ionic](https://ionicframework.com/) for mob
 
 1. `yarn start`
 1. Open a web browser and go to the address `http://localhost:3000/`.
+
 ![screenshot](docs/firefox.png)
 
 ## Run on Android Device
 
 1. `ionic cap build android`
 1. Android Studio will be automatically launched. In Android Studio, choose `Run`->`Run 'app'`. Please note that **API 29** and **API 30** are tested OK. Other API versions are not tested.
+
 ![screenshot](docs/android.png)
