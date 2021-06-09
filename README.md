@@ -19,6 +19,7 @@ This example demonstrate how to use [Ionic](https://ionicframework.com/) for mob
 ## Run on Web Browser
 
 1. `yarn start`
+1. Open a web browser and go to the address `http://localhost:3000/`.
 ![screenshot](docs/firefox.png)
 
 ## Run on Android Device
